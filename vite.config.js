@@ -5,7 +5,7 @@ import postcssPluginPxtorem from 'postcss-pxtorem'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/restaurant-marketing-app_v1/',
+  base: '/restaurant-marketing-app_v0/',
   plugins: [vue()],
   resolve: {
     alias: {
